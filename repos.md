@@ -19,3 +19,6 @@ https://github.com/alextanhongpin/go-chat
 -Repo of Flutter repos
 
 https://github.com/Solido/awesome-flutter
+
+https://github.com/bradtraversy/design-resources-for-developers
+
